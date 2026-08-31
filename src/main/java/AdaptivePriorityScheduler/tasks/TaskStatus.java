@@ -1,4 +1,4 @@
-package AdaptivePriorityScheduler.Tasks;
+package AdaptivePriorityScheduler.tasks;
 
 public class TaskStatus {
 }
